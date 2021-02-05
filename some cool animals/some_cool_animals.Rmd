@@ -68,6 +68,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - strong with the force
 
+can you see this change?
 ###
 git config --global user.email "you@example.com"
 
